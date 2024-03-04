@@ -32,6 +32,8 @@ My experince:
 - DNS Servers / SMPT Server / IMAP Server
 - Figma / Adobe Xd
 - Maybe 25K hours as coder
+- Taxes in Mexico
+- Labor laws in Mexico
 - My listener to english and speak is bad. But I can write and read, better now with chatGPT haha.
 - I am owner of a fashion brand (and factory) with operations in México and Brazil, e-commerce only. Since 10 years.
 - Business Operations in México, Perú, Brasil and Colombia.
