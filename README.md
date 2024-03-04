@@ -25,7 +25,7 @@ in the past I worked (but I forgot sure):
 - GraphQL
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Maybe 25K hours as coder
-
+- My listener of english and speak is appalling. But I cant write and read, better now with chatGTP haha.
 If you want contract my consulting service my price/hour is $95 USD.
 
 <!---
