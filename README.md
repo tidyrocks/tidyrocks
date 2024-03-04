@@ -11,7 +11,8 @@
 
 ⚡ Fun fact: God come on and made us, then God is gone, and he forget us. I think it explain all.
 
-in the past I worked (but I forgot sure):
+My experince:
+
 - php (15 years)
 - MySQL, MariaDB, Workbench (15 years)
 - Zend Framework (10 years) 
