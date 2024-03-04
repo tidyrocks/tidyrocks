@@ -26,6 +26,7 @@ in the past I worked (but I forgot sure):
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Maybe 25K hours as coder
 - My listener to english and speak is bad. But I can write and read, better now with chatGPT haha.
+- I am owner of a fashion brand (and factory) with operations in México and Brazil, e-commerce only. Since 10 years.
 
   
 If you want contract my consulting service my price/hour is $95 USD.
