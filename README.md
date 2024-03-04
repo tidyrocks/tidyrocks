@@ -11,6 +11,16 @@
 
 ⚡ Fun fact: God come on and made us, then God is gone, and he forget us. I think it explain all.
 
+in the past I worked (but I forgot sure):
+- php (15 years)
+- workbench (15 years)
+- Zend Framework (10 years) 
+- cPanel
+- CentOS
+- HostDime.com (10 years), I helped to build the Data Center in Guadalajara, Jalisco México.
+- SEO, I positioned keywords: "web hosting, dedicated servers, data center" in top 10 of google search.
+- Ads, 10 years, google, facebook  (I want learn tiktok)
+
 <!---
 tidyrocks/tidyrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
