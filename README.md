@@ -23,6 +23,7 @@ in the past I worked (but I forgot sure):
 - Go
 - Mongodb
 - GraphQL
+- Vue, Nuxt, JS
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Maybe 25K hours as coder
 - My listener to english and speak is bad. But I can write and read, better now with chatGPT haha.
