@@ -16,7 +16,7 @@ in the past I worked (but I forgot sure):
 - MySQL, MariaDB, Workbench (15 years)
 - Zend Framework (10 years) 
 - Director for LATAM in [HostDime.com](https://hostDime.com) for 10 years, I helped to build the Data Center in Guadalajara, Jalisco México.
-- SEO, I positioned keywords: "web hosting, dedicated servers, data center" in top 10 of google search.
+- SEO, I positioned keywords: "web hosting, dedicated servers, data center" in top 5 of google search.
 - Ads, 10 years, google, facebook  (I want learn tiktok)
 - Python
 - Odoo
