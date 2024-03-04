@@ -26,6 +26,8 @@ My experince:
 - GraphQL
 - Vue, Nuxt, JS
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
+- Datacenter infrastructure
+- Servers / Load balancing / Global replication / Buckups / CDN
 - Google Cloud Platform
 - Amazon Web Services
 - API REST
