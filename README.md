@@ -27,6 +27,8 @@ My experince:
 - Vue, Nuxt, JS
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Datacenter infrastructure
+- Internet and backbone
+- ISP México
 - Servers / Load balancing / Global replication / Buckups / CDN
 - Google Cloud Platform
 - Amazon Web Services
