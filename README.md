@@ -1,4 +1,4 @@
-👋 Hi, I’m @tidyrocks
+👋 Hi, I’m Gus (coder in @tidyrocks)
 👀 I’m interested in Docker, Go, GraphQL, API REST, MongoDB, Clean Architecture, Software Architecture, Software Engineering, Figma, UX, Vue, NuextJS, Flutter, SEO, Fashion, System Admin, DBA
 
 🌱 I’m currently learning AI for fashion and AI for coder.
