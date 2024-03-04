@@ -32,6 +32,7 @@ My experince:
 - Servers / load balancing / global replication / backups / CDN
 - Google Cloud Platform
 - Amazon Web Services
+- Storage
 - API REST
 - DNS Servers / SMPT Server / IMAP Server
 - Figma / Adobe Xd
