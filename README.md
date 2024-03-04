@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate with a marketing expert, expert sales. The code not is problem for me.
 
-📫 How to reach me ... maybe I can lead your new software development if it break my mind.
+📫 How to reach me ... maybe I can lead your new software development if it break my mind. [IG: gus.salazar.s](https://www.instagram.com/gus.salazar.s)
 
 😄 Pronouns: ...
 
