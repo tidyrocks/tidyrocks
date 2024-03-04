@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tidyrocks
-- 👀 I’m interested in Docker, Go, GraphQL, API REST, MongoDB, Clean Architecture, Software Architecture, Software Engineering, Figma, SEO, Fashion, System Admin, DBA
+- 👀 I’m interested in Docker, Go, GraphQL, API REST, MongoDB, Clean Architecture, Software Architecture, Software Engineering, Figma, UX, Vue, NuextJS, Flutter, SEO, Fashion, System Admin, DBA
 - 🌱 I’m currently learning AI for fashion and AI for coder.
 - 💞️ I’m looking to collaborate on an marketing expert, expert sales.
 - 📫 How to reach me ...
