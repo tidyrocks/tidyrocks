@@ -37,7 +37,8 @@ My experince:
 - Business Operations in México, Perú, Brasil and Colombia.
 
   
-If you want contract my consulting service my price/hour is $95 USD.
+If you want contract my consulting service my price/hour is $95 USD. 
+I can collaborate with you as an IT consultant for your business, normally my business take all my time.
 
 <!---
 tidyrocks/tidyrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
