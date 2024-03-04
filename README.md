@@ -28,6 +28,7 @@ My experince:
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Google Cloud Platform
 - Amazon Web Services
+- API REST
 - DNS Servers / SMPT Server / IMAP Server
 - Figma / Adobe Xd
 - Maybe 25K hours as coder
