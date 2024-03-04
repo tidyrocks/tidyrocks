@@ -13,7 +13,7 @@
 
 My experince:
 
-- php (15 years)
+- PHP (15 years)
 - MySQL, MariaDB, Workbench (15 years)
 - Zend Framework (10 years) 
 - Director for LATAM in [HostDime.com](https://hostDime.com) for 10 years, I helped to build the Data Center in Guadalajara, Jalisco México.
