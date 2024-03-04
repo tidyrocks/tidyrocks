@@ -13,13 +13,20 @@
 
 in the past I worked (but I forgot sure):
 - php (15 years)
-- workbench (15 years)
+- MySQL, MariaDB, Workbench (15 years)
 - Zend Framework (10 years) 
-- cPanel
-- CentOS
 - HostDime.com (10 years), I helped to build the Data Center in Guadalajara, Jalisco México.
 - SEO, I positioned keywords: "web hosting, dedicated servers, data center" in top 10 of google search.
 - Ads, 10 years, google, facebook  (I want learn tiktok)
+- Python
+- Odoo
+- Go
+- Mongodb
+- GraphQL
+- Centos / Docker / SSH / Ubuntu / CentOS / cPanel
+- Maybe 25K hours as coder
+
+If you want contract my consulting service my price/hour is $95 USD.
 
 <!---
 tidyrocks/tidyrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
