@@ -26,6 +26,9 @@ My experince:
 - GraphQL
 - Vue, Nuxt, JS
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
+- Google Cloud Platform
+- Amazon Web Services
+- DNS Servers / SMPT Server / IMAP Server
 - Maybe 25K hours as coder
 - My listener to english and speak is bad. But I can write and read, better now with chatGPT haha.
 - I am owner of a fashion brand (and factory) with operations in México and Brazil, e-commerce only. Since 10 years.
