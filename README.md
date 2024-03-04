@@ -40,6 +40,8 @@ My experince:
 - Taxes in Mexico
 - Labor laws in Mexico
 - Mercado Libre Seller / Mercado Libre External Developer
+- Shein Seller
+- Amazon Seller
 - My listener to english and speak is bad. But I can write and read, better now with chatGPT haha.
 - I am owner of a fashion brand (and factories) with operations in México and Brazil, e-commerce only. Since 10 years.
 - Business Operations in México, Perú, Brasil and Colombia.
