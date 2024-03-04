@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with a marketing expert, expert sales. The code not is problem for me.
 - 📫 How to reach me ... maybe I can lead your new software development if it break my mind.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: god come on and made us, then god is gone, and he forget us. I think it explain all.
+- ⚡ Fun fact: God come on and made us, then god is gone, and he forget us. I think it explain all.
 
 <!---
 tidyrocks/tidyrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
