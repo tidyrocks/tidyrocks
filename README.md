@@ -28,8 +28,8 @@ My experince:
 - Centos / Docker / SSH / Ubuntu / CentOS / cPanel
 - Datacenter infrastructure
 - Internet and backbone
-- ISP México
-- Servers / Load balancing / Global replication / Buckups / CDN
+- ISP México / IFT Mexico
+- Servers / load balancing / global replication / backups / CDN
 - Google Cloud Platform
 - Amazon Web Services
 - API REST
