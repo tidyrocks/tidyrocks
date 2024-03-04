@@ -37,7 +37,7 @@ My experince:
 - Business Operations in México, Perú, Brasil and Colombia.
 
   
-If you want contract my consulting service my price/hour is $95 USD. 
+If you want contract my consulting service my price/hour is $125 USD. 
 I can collaborate with you as an IT consultant for your business, normally my business take all my time.
 
 <!---
